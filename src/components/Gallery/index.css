@@ -1,0 +1,10 @@
+.container {
+  background-color: #ffffff;
+  padding: 45px;
+  height: 100vh;
+}
+.list-item-card {
+  list-style-type: none;
+  display: flex;
+  padding: 15px;
+}

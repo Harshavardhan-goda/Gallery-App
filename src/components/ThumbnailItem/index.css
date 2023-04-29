@@ -1,0 +1,12 @@
+.btn-item {
+  border: none;
+  outline: none;
+  margin-right: 5px;
+  background-color: #ffffff;
+}
+.img {
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
